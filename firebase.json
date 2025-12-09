@@ -1,0 +1,16 @@
+{
+  "hosting": {
+    "public": "dist/latihan-cicd-angular",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
