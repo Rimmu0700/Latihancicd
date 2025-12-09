@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/latihan-cicd-angular",
+    "public": "dist/latihan-cicd-angular/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
